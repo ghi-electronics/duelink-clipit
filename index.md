@@ -1,32 +1,27 @@
-# DUELink Holiday Tree
+# DUELink ClipIt
 
-This page includes many demo programs/patterns that you can load onto your DUELink [Holiday Tree](https://www.duelink.com/docs/products/sptree-b)
+This page includes many demo programs/patterns that you can load onto your DUELink [ClipIt](https://www.duelink.com/docs/products/msclipit-b)
 
-![Holiday Tree](./img/sptree-b-1.png)
+![ClipIt](./img/mcclipit-b-1.png)
 
 To load any of the demos, you need these steps:
-1. Plug in the tree to your PC using a USB C cable (not included).
+1. Plug in ClipIt to your PC using the included USB cable.
 2. Go to [https://microblocks.fun/run/microblocks.html](https://microblocks.fun/run/microblocks.html). You will need to use `Edge` or `Chrome` Internet browsers.
 3. Click connect button on the top right corner. Then select the USB option.
 4. You should have one option only but if more than one then select the `DUELink` device.
 5. The connect button you clicked earlier changes to a `DUELink` next to a green connect icon.
-6. Click and drag [This Tree Library Link](https://www.duelink.com/code/driver/microblocks/holiday-tree.ubl) into the middle of the MiroBlocks page.
+6. Click and drag [This ClipIt](https://www.duelink.com/code/driver/microblocks/clipit.ubl) into the middle of the MiroBlocks page.
 You can now drag any of the images below into the IDE to try them.
 
 **Note:** It is easier to have 2 browser windows open simultaneously to drag the library and images. Another option is to save the image/library locally onto your machine then drag them in the browser later!
 
 ---
 
-## Example Patterns
+## Example Demos
 
 Demo (Drag into MicroBlocks) | Functionality
 --- | ---
-![Random Lights](./code/random.png) | Blink the LEDs Randomly.
-![Pulsar](./code/pulsar.png) | The top emitting star.
-![shooting star](./code/shooting-star.png) | Lights go up the tree, all the way to the star!
-![Spaceship](./code/spaceship.png) | Rotate on all sides and make a buzzing noise.
-![Twinkle](./code/twinkle.png) | Some "Twinkle" notes!
-
+Coming Soon! | Demo Game!
 
 Are you ready to make your own demos?
 
