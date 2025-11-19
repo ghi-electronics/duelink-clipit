@@ -12,6 +12,8 @@ Don't have a DUELink Clipit yet? Get yours today!<br>
 <br>
 </p>
 
+---
+
 Power up Clipit using a PC, phone charger, or power bank and enjoy the preloaded demo. Then use any computer to load one of the demo projects below as is, or **change it** any way you like!
 
 To load a project: **Click** ➡ **Connect** ➡ **Run**!
@@ -29,7 +31,7 @@ To load a project: **Click** ➡ **Connect** ➡ **Run**!
   </tr>
   <tr>
     <td><a href="https://www.youtube.com/watch?v=GflXmnGSey4" target="_blank"><img src="https://img.youtube.com/vi/GflXmnGSey4/1.jpg" alt="Default Project Demo"></a></td>
-    <td><a href="https://microblocks.fun/run/microblocks.html?project=https://raw.githubusercontent.com/ghi-electronics/duelink-clipit/refs/heads/main/code/demo.ubp" target="_blank">Default Project Demo</a></td>
+    <td><a href="https://microblocks.fun/run-pilot/microblocks.html?project=https://raw.githubusercontent.com/ghi-electronics/duelink-clipit/refs/heads/main/code/demo.ubp" target="_blank">Default Project Demo</a></td>
     <td>This is the default demo. Touch `Up` and `Down` to change the generated sound. Touch `Left` and `Right` for sad/happy faces. Touch `A` for current light level and `B` for `DUELink`</td>
   </tr>
 </table>
