@@ -2,13 +2,15 @@
 
 # DUELink Clipit
 
-![Clipit](./img/mcclipit-b-1.png)
+<p style="text-align: center"><img src="./img/mcclipit-b-1.webp"></p>
+
 
 This page is a `Getting Started` page for `DUELink Clipit`. The full product details are [here](https://www.duelink.com/docs/products/mcclipit-b) on the main DUELink website. Are you an educator? See how DUELink can help you [here](https://www.duelink.com/docs/educators).
 
 <p style="text-align:center;">
 Don't have a DUELink Clipit yet? Get yours today!<br>
-<a href="#" target="_blank"><img src="./img/amazon-btn.png" alt="Amazon button" width="200"></a>
+<a href="#" target="
+https://www.amazon.com/dp/B0FY75HS3P?maas=maas_adg_6B703226666D03E07A6B1F6D5BDDD7AE_afap_abs&ref_=aa_maas&tag=maas"><img src="./img/amazon-btn.png" alt="Amazon button" width="200"></a>
 <br>
 </p>
 
