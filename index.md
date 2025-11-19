@@ -38,7 +38,6 @@ To load a project: **Click** ➡ **Connect** ➡ **Run**!
   </tr>
 </table>
 
-
 ---
 
 ## What is MicroBlocks?
