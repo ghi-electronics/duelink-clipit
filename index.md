@@ -9,8 +9,7 @@ This page is a `Getting Started` page for `DUELink Clipit`. The full product det
 
 <p style="text-align:center;">
 Don't have a DUELink Clipit yet? Get yours today!<br>
-<a href="#" target="
-https://www.amazon.com/dp/B0FY75HS3P?maas=maas_adg_6B703226666D03E07A6B1F6D5BDDD7AE_afap_abs&ref_=aa_maas&tag=maas"><img src="./img/amazon-btn.png" alt="Amazon button" width="200"></a>
+<a href="https://www.amazon.com/dp/B0FY75HS3P?maas=maas_adg_6B703226666D03E07A6B1F6D5BDDD7AE_afap_abs&ref_=aa_maas&tag=maas"><img src="./img/amazon-btn.png" target="_blank"><img src="./img/amazon-btn.png" alt="Amazon button" width="200"></a>
 <br>
 </p>
 
