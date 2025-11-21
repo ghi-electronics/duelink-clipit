@@ -35,6 +35,11 @@ To load a project: **Click** ➡ **Connect** ➡ **Run**!
     <td><a href="https://microblocks.fun/run-pilot/microblocks.html?project=https://raw.githubusercontent.com/ghi-electronics/duelink-clipit/refs/heads/main/code/demo.ubp" target="_blank">Default Project Demo</a></td>
     <td>This is the default demo. Touch `Up` and `Down` to change the generated sound. Touch `Left` and `Right` for sad/happy faces. Touch `A` for current light level and `B` for `DUELink`</td>
   </tr>
+     <tr>
+    <td><a href="https://www.youtube.com/watch?v=SRl_iSj7iYo" target="_blank"><img src="https://img.youtube.com/vi/SRl_iSj7iYo/1.jpg"></a></td>
+    <td><a href="https://microblocks.fun/run-pilot/microblocks.html?project=https://raw.githubusercontent.com/ghi-electronics/duelink-clipit/refs/heads/main/code/disylink-snowy.ubp" target="_blank">Snowy Daisylink!</a></td>
+    <td>Control any other daisylinked modules, such as Snowy. Note that any Daisylinked module must be loaded with the provided DUELink firmware and the module's driver.</td>
+  </tr>
 </table>
 
 ---
@@ -46,6 +51,18 @@ If you want to learn coding the easy way, MicroBlocks is a block-based language 
 ![MicroBlocks](./img/microblocks-sample.png)
 
 Learn more about DUELink's [MicroBlocks support](https://www.duelink.com/docs/language/microblocks).
+
+---
+
+## Beyond MicroBlocks
+
+![languages](./img/languages.webp)
+
+All DUELink boards work with a variety of [coding languages](https://www.duelink.com/docs/language/intro), such as [Python](https://www.duelink.com/docs/language/python) and [JavaScript](https://www.duelink.com/docs/language/javascript). Fire up your favorite IDE and start coding away!
+
+![arduino](./img/arduino-logo.webp)
+
+Using [Arduino](https://www.duelink.com/docs/hw/arduino) is another great option. The Arduino IDE can be used to write programs that run right on any DUELink module. [Daisylink](https://www.duelink.com/docs/engine/daisylink) can also be used to control other modules through the [downlink](https://www.duelink.com/docs/interface/downlink) connector.
 
 ---
 
