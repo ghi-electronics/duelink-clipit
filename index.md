@@ -32,12 +32,12 @@ To load a project: **Click** ➡ **Connect** ➡ **Run**!
   </tr>
   <tr>
     <td><a href="https://www.youtube.com/watch?v=dY_dioxAdy4" target="_blank"><img src="https://img.youtube.com/vi/dY_dioxAdy4/1.jpg" alt="Default Project Demo"></a></td>
-    <td><a href="https://microblocks.fun/run-pilot/microblocks.html?project=https://raw.githubusercontent.com/ghi-electronics/duelink-clipit/refs/heads/main/code/demo.ubp" target="_blank">Default Project Demo</a></td>
+    <td><a href="https://microblocks.fun/run/microblocks.html?project=https://raw.githubusercontent.com/ghi-electronics/duelink-clipit/refs/heads/main/code/demo.ubp" target="_blank">Default Project Demo</a></td>
     <td>This is the default demo. Touch `Up` and `Down` to change the generated sound. Touch `Left` and `Right` for sad/happy faces. Touch `A` for current light level and `B` for `DUELink`</td>
   </tr>
      <tr>
     <td><a href="https://www.youtube.com/watch?v=771BoYa25TQ" target="_blank"><img src="https://img.youtube.com/vi/771BoYa25TQ/1.jpg"></a></td>
-    <td><a href="https://microblocks.fun/run-pilot/microblocks.html?project=https://raw.githubusercontent.com/ghi-electronics/duelink-clipit/refs/heads/main/code/disylink-snowy.ubp" target="_blank">Snowy Daisylink!</a></td>
+    <td><a href="https://microblocks.fun/run/microblocks.html?project=https://raw.githubusercontent.com/ghi-electronics/duelink-clipit/refs/heads/main/code/disylink-snowy.ubp" target="_blank">Snowy Daisylink!</a></td>
     <td>Control any other daisylinked modules, such as Snowy. Note that any Daisylinked module must be loaded with the provided DUELink firmware and the module's driver.</td>
   </tr>
 </table>
